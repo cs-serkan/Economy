@@ -1,5 +1,3 @@
-Harika bir fikir! Modüler yapını desteklemek için cs-serkan/Economy deposuna özel, profesyonel bir README.md dosyası hazırladım. Bu dosya, projeni GitHub'da görenlerin sistemin ne kadar temiz ve bağımsız olduğunu anlamasını sağlayacak.
-
 💰 Unity Economy Core (cs-serkan)
 A lightweight, standalone, and modular economy management system designed for Unity. This module handles the core logic for currency accumulation (via hits/clicks) and balance management, completely independent of specific UI or game-specific mechanics.
 
